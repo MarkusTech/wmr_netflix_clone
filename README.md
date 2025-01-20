@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Technology Used: React, NextJS, TailwindCSS & Prisma.
+Technology Used: React, NextJS, TailwindCSS & Prisma
 
 Features:
 
